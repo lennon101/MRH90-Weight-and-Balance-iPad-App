@@ -1,0 +1,2 @@
+# MR90-Weight-and-Balance-iPad-App
+RAMSPO has been employed to resolve problems associated with calculating the Weight and Balance of the MRH90. Currently the approved processes for doing so are either out of date or impractical to use. Aircrewman have identified that the Center of Gravity (CG) Calculations Tables and Excel Spread Sheets contain difficult to use workflows and the paper based Vector and Moment Envelop charts unusable especially in the air.  
